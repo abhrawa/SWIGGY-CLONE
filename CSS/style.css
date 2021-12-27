@@ -1,0 +1,173 @@
+body {
+
+  font-family:sans-serif;
+  box-sizing: border-box;
+  margin: 0px;
+}
+.top {
+  background-color: white;
+  display: flex;
+  justify-content:flex-start;
+}
+.lfttop{
+  height: 540px;
+  width: 55%;
+  background-color: white;
+  display: inline-block;
+}
+.lgin{
+  color: black;
+}
+.rghttop
+{
+  height: 540px;
+  width: 45%;
+}
+.rhtimg
+{
+  width: 100%;
+}
+.btm1{
+  height: 403px;
+}
+.btm2{
+  height: 600px;
+}
+.logo{
+  margin-top: 50px;
+  margin-left: 160px;
+  float: left;
+  width: 50%;
+}
+.LS{
+  margin-left: 600px;
+  margin-top: 80px;
+  width: 50%;
+
+}
+.or{
+  display: inline-block;
+}
+.SI{
+  font-size: 22px;
+  border: 10px solid;
+  padding: 10px;
+  background-color: black;
+}
+.absch{
+  margin-left: 160px;
+}
+.headin{
+  margin-top: 80px;
+  letter-spacing: -45;
+}
+.smpara{
+  color: grey;
+}
+.srchbar{
+  text-align: center;
+  margin: 0px 10px 0px 70px;
+}
+.data {
+  font-size: 18px;
+  width: 400px;
+  padding: 15px;
+}
+.sch {
+  font-size: 16px;
+  width: 130px;
+  padding: 16.5px;
+  font-weight: bold;
+  background-color: #fc8019;
+  color: white;
+}
+.citi {
+  margin-left: 155px;
+  color: grey;
+}
+.citi span {
+  color: black;
+}
+.rhtimg{
+  height: 540px;
+}
+.btm1{
+  background-color: #2b1e16;
+  display: flex;
+  justify-content: space-around;
+}
+.img-1 {
+  text-align: center;
+}
+.pto {
+  width: 105px;
+  height: 190px;
+}
+.btm2 {
+  display: flex;
+}
+.btmleft {
+width: 50%;
+justify-content: center;
+margin-left: 180px;
+margin-top: 180px;
+font-size: 18px;
+}
+.btmright {
+  display: flex;
+width: 50%;
+}
+.lgo {
+  height: 50px;
+  width: 170px;
+  margin: 10px;
+  margin-left: -3px;
+}
+
+.phoneimgl
+  {
+      width: 384px;
+      height: 489px;
+  }
+  .phoneimg2{
+    width: 384px;
+    height: 489px;
+    margin-top: 112px;
+  }
+  .lastblock{
+    height: 540px;
+    background-color: black;
+    display: flex;
+    color: white;
+  }
+  .company{
+    width: 20%;
+    margin-left: 150px;
+    margin-top: 60px;
+  }
+  .contact{
+  width: 20%;
+    margin-left: 150px;
+    margin-top: 60px;
+  }
+  .legal{
+    width: 20%;
+    margin-left: 150px;
+    margin-top: 60px;
+  }
+  .log{
+  width: 40%;
+    }
+    .btn{
+      height: 50px;
+      width: 170px;
+      border: 1px solid white;
+      margin-top: 72px;
+      margin-left: 120px;
+    }
+a {
+  text-decoration: none;
+}
+hr{
+  width: 50%;
+}
